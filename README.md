@@ -7,7 +7,7 @@ Yabancı dillerde benzer projeler bulunmakta, bu projenin amacı alternatif, top
 ## İçerik
 1. [Network](https://github.com/MuhammetDilmac/PythonKutuphaneleri/blob/master/network/)
  * [Requests](https://github.com/MuhammetDilmac/PythonKutuphaneleri/blob/master/network/requests.md)
- HTTP protokolü ile ilgili işlemlerinizi kolayca yapmanızı sağlayan kütüphanedir. Urllib2'ye göre çok daha kullanışlı ve zahmetsizdir.
+ (HTTP protokolü ile ilgili işlemlerinizi kolayca yapmanızı sağlayan kütüphanedir.)
 
 ## Nasıl Destek Olabilirim
 Projeye destek olmak için aşağıdaki adımları gerçekleştirebilirsiniz. Arşivde kullandığımız dil _Markdown_'dır, dolayısıyla düzenlerken işinizi kolaylaştırmak için bir markdown editörü kullanmanızı öneriyoruz.
