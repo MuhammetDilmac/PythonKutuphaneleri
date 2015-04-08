@@ -6,7 +6,7 @@ Yabancı dillerde benzer projeler bulunmakta, bu projenin amacı alternatif, top
 
 ## İçerik
 - [Network](https://github.com/MuhammetDilmac/PythonKutuphaneleri/blob/master/network/)
--- [Requests](https://github.com/MuhammetDilmac/PythonKutuphaneleri/blob/master/network/requests.md)
+ - [Requests](https://github.com/MuhammetDilmac/PythonKutuphaneleri/blob/master/network/requests.md)
 
 ## Nasıl Destek Olabilirim
 Projeye destek olmak için aşağıdaki adımları gerçekleştirebilirsiniz. Arşivde kullandığımız dil _Markdown_'dır, dolayısıyla düzenlerken işinizi kolaylaştırmak için bir markdown editörü kullanmanızı öneriyoruz.
