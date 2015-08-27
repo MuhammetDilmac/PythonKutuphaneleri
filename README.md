@@ -9,6 +9,9 @@ Yabancı dillerde benzer projeler bulunmakta, bu projenin amacı alternatif, top
  * [Requests](https://github.com/MuhammetDilmac/PythonKutuphaneleri/blob/master/network/requests.md)
  (HTTP protokolü ile ilgili işlemlerinizi kolayca yapmanızı sağlayan kütüphanedir.)
 
+2. [Imaging](https://github.com/MuhammetDilmac/PythonKutuphaneleri/blob/master/imaging/)
+ * [Pillow](https://github.com/MuhammetDilmac/PythonKutuphaneleri/blob/master/imaging/pillow.md) (Pillow, PIL olarak da geçen, Python Image Library kütüphanesidir.)
+
 ## Nasıl Destek Olabilirim
 Projeye destek olmak için aşağıdaki adımları gerçekleştirebilirsiniz. Arşivde kullandığımız dil _Markdown_'dır, dolayısıyla düzenlerken işinizi kolaylaştırmak için bir markdown editörü kullanmanızı öneriyoruz.
 
