@@ -22,6 +22,10 @@ Yabancı dillerde benzer projeler bulunmakta, bu projenin amacı alternatif, top
 4. [Database](https://github.com/MuhammetDilmac/PythonKutuphaneleri/tree/master/database)
  * [dbConnect](https://github.com/MuhammetDilmac/PythonKutuphaneleri/blob/master/database/dbConnect.md)
  (dbConnect, uygulamanız üzerinden MySQL veritabanınızı kullanmanızı sağlayan bir Python kütüphanesidir.)
+5. [Cryptography](https://github.com/MuhammetDilmac/PythonKutuphaneleri/tree/master/cryptography)
+ 
+ * [Hashlib](https://github.com/MuhammetDilmac/PythonKutuphaneleri/blob/master/cryptography/hashlib.md)
+  (Hashlib, çeşitli popüler şifreleme algoritmalarını barındıran bir kütüphanedir.)
 
 ## Nasıl Destek Olabilirim
 Projeye destek olmak için aşağıdaki adımları gerçekleştirebilirsiniz. Arşivde kullandığımız dil _Markdown_'dır, dolayısıyla düzenlerken işinizi kolaylaştırmak için bir markdown editörü kullanmanızı öneriyoruz.
